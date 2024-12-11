@@ -1,5 +1,5 @@
 {
-    "name": "johannebert/laravel-spam-protector",
+    "name": "simbiosis-app/laravel-spam-protector",
     "type": "library",
     "description": "Laravel Spam Protector class to check ip, name, email for spam that uses the StopForumSpam Api https://www.stopforumspam.com/usage",
     "keywords": [
